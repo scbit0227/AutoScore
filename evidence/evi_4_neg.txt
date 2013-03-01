@@ -1,0 +1,29 @@
+odd or even number
+odd and even number
+number of the subjects' identity card
+number of the subject¡¯s identity card
+number of the subjects' ID
+odd or even data of birth
+some rule based on date (or day) of admission
+some rule based on hospital or clinic record number
+by judgements of the clinicians
+based on preference of the participants
+based on the results of a laboratory test or a series of tests
+based on availability of the intervention
+by alternation
+an alternating schedule at entry
+number of the subjects' identity card
+sequential allocation
+alternate allocation
+based on time of day of birth
+every second patients to the treatment group
+on investigators' discretion
+no control group
+single arm trial
+by order of some number
+the last digit of hospital
+every third to control
+every third school
+by reservation number in the hospital
+on date of admission
+select experimental group first, the rest were assigned to control group

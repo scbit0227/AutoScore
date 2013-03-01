@@ -1,0 +1,2305 @@
+{
+  "S24-3": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S24-2": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "NC-96": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-71": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S12-8": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S12-9": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "NC-92": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S19-27": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S12-4": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S26-4": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "Y", 
+    "result": "B"
+  }, 
+  "S12-6": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "NC-27": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S26-1": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S12-1": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S12-2": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S12-3": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S17-5": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S17-4": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "RE-1": {
+    "reported": "N", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "E"
+  }, 
+  "S29-4": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S17-1": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "NC-54": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S17-3": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S17-2": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S19-8": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S23-14": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S19-5": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S19-4": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S19-3": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S19-1": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S29-5": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S9-29": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "NC-18": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-19": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-14": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S9-23": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S9-20": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S11-14": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "NC-10": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S11-12": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S9-24": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S9-25": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S26-5": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "NC-23": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S15-2": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "NC-97": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-95": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S22-3": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "RE-17": {
+    "reported": "N", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "E"
+  }, 
+  "S13-46": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S5-13": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S23-5": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S10-6": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S23-6": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S22-4": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S9-17": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S2-2": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "NC-22": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S9-13": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S9-12": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S9-11": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S9-10": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "NC-21": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S5-32": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S9-19": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "NC-20": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S23-4": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S18-2": {
+    "reported": "N", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "E"
+  }, 
+  "S23-2": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "Y", 
+    "result": "B"
+  }, 
+  "S23-7": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S23-1": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S5-9": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S5-8": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S5-7": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S20-6": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "NC-63": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S20-4": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S20-3": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S5-2": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "NC-67": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-66": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S11-7": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S11-6": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "NC-4": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S11-4": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S13-5": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S13-4": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S11-1": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S13-6": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S19-26": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S13-8": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S19-20": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S18-7": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "NC-57": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-73": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-62": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-28": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-70": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-61": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S23-8": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S18-5": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S2-6": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "NC-100": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S20-2": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S29-2": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S13-48": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "NC-6": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-65": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "RE-7": {
+    "reported": "N", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "E"
+  }, 
+  "NC-8": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-50": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S6-4": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "NC-78": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S29-1": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "NC-7": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S13-11": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S13-10": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S26-3": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S13-12": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "NC-31": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S13-14": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "NC-45": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-75": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-5": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S3-20": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S3-21": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S19-34": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S19-31": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S3-6": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "NC-2": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-76": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S13-7": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S19-29": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "RE-8": {
+    "reported": "N", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "E"
+  }, 
+  "NC-90": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-47": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S13-25": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S13-26": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S13-27": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S13-20": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S13-21": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S14-1": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S13-23": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "NC-60": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-52": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S13-28": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S13-29": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "NC-49": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-48": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-77": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S1-8": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "NC-25": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S1-3": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S1-2": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S1-1": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S1-7": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S21-18": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S1-5": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S1-4": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S18-15": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "NC-44": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S9-7": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S9-6": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S18-6": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S9-4": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S23-3": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "NC-26": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S25-4": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S19-21": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S11-15": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "NC-42": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "RE-6": {
+    "reported": "N", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "E"
+  }, 
+  "S16-1": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S10-8": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S28-4": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S25-2": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "NC-41": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-94": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S25-1": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S22-1": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S5-34": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S15-1": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S22-2": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S5-31": {
+    "reported": "N", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "E"
+  }, 
+  "S10-7": {
+    "reported": "N", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "E"
+  }, 
+  "S10-4": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S9-27": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S13-33": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S13-32": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S13-31": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S23-15": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S13-37": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S13-36": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S23-10": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S13-34": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "NC-58": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-59": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-13": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-99": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-81": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S21-11": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S19-17": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S19-15": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S19-14": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S19-13": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S19-12": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S23-12": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S19-10": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "NC-37": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-46": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S19-19": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S19-18": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S5-49": {
+    "reported": "N", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "E"
+  }, 
+  "NC-9": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-55": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-85": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S5-42": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "NC-84": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S5-46": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S23-13": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "NC-15": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S5-28": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S5-29": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S5-26": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S5-17": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S5-22": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S5-23": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S5-20": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "NC-64": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-56": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-3": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "RE-3": {
+    "reported": "N", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "E"
+  }, 
+  "S21-24": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S7-1": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "NC-24": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S13-44": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S7-2": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S13-42": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S13-43": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S13-40": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S13-41": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S4-2": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S4-3": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "RE-2": {
+    "reported": "N", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "E"
+  }, 
+  "NC-1": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-29": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S4-7": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S4-4": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S13-49": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S27-8": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S27-9": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "NC-82": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-74": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S27-1": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S27-4": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S27-6": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "NC-98": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-17": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S5-18": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S3-19": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S3-18": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S3-15": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S3-11": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S5-16": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S3-12": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "RE-5": {
+    "reported": "N", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "E"
+  }, 
+  "NC-53": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S20-8": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "NC-91": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S13-55": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S13-54": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "NC-34": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S13-56": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S13-51": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S13-50": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S13-53": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S13-52": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S19-28": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "NC-38": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-39": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "RE-12": {
+    "reported": "N", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "E"
+  }, 
+  "RE-13": {
+    "reported": "N", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "E"
+  }, 
+  "RE-10": {
+    "reported": "N", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "E"
+  }, 
+  "RE-11": {
+    "reported": "N", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "E"
+  }, 
+  "RE-16": {
+    "reported": "N", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "E"
+  }, 
+  "NC-79": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "RE-14": {
+    "reported": "N", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "E"
+  }, 
+  "RE-15": {
+    "reported": "N", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "E"
+  }, 
+  "S18-10": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "RE-18": {
+    "reported": "N", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "E"
+  }, 
+  "RE-19": {
+    "reported": "N", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "E"
+  }, 
+  "NC-11": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S18-11": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "NC-36": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-51": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-16": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S13-18": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "NC-69": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S20-7": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S18-13": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "NC-93": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "RE-9": {
+    "reported": "N", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "E"
+  }, 
+  "NC-89": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-35": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "RE-4": {
+    "reported": "N", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "E"
+  }, 
+  "NC-83": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-32": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-43": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-12": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-87": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-86": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-40": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-33": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S12-14": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "NC-30": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-68": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S3-5": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S3-4": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S3-7": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S9-32": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S3-1": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "NC-88": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-72": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "NC-80": {
+    "reported": "Y", 
+    "conducted": "N", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "D"
+  }, 
+  "S13-1": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S8-1": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S8-2": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "Y", 
+    "described": "Y", 
+    "result": "A"
+  }, 
+  "S8-3": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "N", 
+    "result": "C"
+  }, 
+  "S2-5": {
+    "reported": "Y", 
+    "conducted": "Y", 
+    "properly": "N", 
+    "described": "Y", 
+    "result": "B"
+  }
+}
